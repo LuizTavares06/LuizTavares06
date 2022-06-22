@@ -2,7 +2,7 @@
 
 <h3>Meu nome é Luiz Tavares</h3>
 
-- 🔭 Gosto de jogar, ver séries de épocar e passar horas codando. Pra dar uma escapada faço trilhar e saio para acampar.
+- 🔭 Gosto de jogar (console e PC), ver séries de épocar e passar horas codando. Amo música e para dar uma escapada faço trilhar e saio para acampar.
 - 🌱 Atualmente estou fazendo o cruso Full Stack Develpoment na Growdev!
 - 📫 Conheço programação em linguagem: HTML; CSS e JavaScript, TypeScript, NodeJS, React.
 
@@ -15,7 +15,7 @@
 ##
   
 <div> 
-  <a hre="" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
+  <a hre="https://www.instagram.com/luiz_tavares06/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/luiz-alvarenga-tavares-1b39001b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/LuizTavares06/montoyaaa/blob/output/github-contribution-grid-snake.svg)
