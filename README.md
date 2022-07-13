@@ -2,8 +2,8 @@
 
 <h3>Meu nome é Luiz Tavares</h3>
 
-- 🔭 Gosto de jogar (console e PC), ver séries de épocar e passar horas codando. Amo música e para dar uma escapada faço trilhar e saio para acampar.
-- 🌱 Atualmente estou fazendo o cruso Full Stack Develpoment na Growdev!
+- 🔭 Gosto de jogar (console e PC), ver séries de épocar e passar horas codando. Amo música e para dar uma escapada faço trilhas e saio para acampar.
+- 🌱 Atualmente estou fazendo o cursoso Full Stack Develpoment na Growdev!
 - 📫 Conheço programação em linguagem: HTML; CSS e JavaScript, TypeScript, NodeJS, React.
 
 <div align="center">
